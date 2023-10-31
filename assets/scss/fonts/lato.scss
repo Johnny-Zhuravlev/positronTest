@@ -1,0 +1,34 @@
+@font-face {
+  font-family: 'Lato', sans-serif;
+  src: url('@/public/fonts/lato.eot');
+  src: url('@/public/fonts/lato.otf') format('opentype'),
+       url('@/public/fonts/lato.svg') format('svg'),
+       url('@/public/fonts/lato.ttf') format('truetype'),
+       url('@/public/fonts/lato.woff') format('woff'),
+       url('@/public/fonts/lato.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+
+}
+@font-face {
+  font-family: 'Lato', sans-serif;
+  src: url('@/public/fonts/medium/lato-medium.eot');
+  src: url('@/public/fonts/medium/lato-medium.otf') format('opentype'),
+       url('@/public/fonts/medium/lato-medium.svg') format('svg'),
+       url('@/public/fonts/medium/lato-medium.ttf') format('truetype'),
+       url('@/public/fonts/medium/lato-medium.woff') format('woff'),
+       url('@/public/fonts/medium/lato-medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Lato', sans-serif;
+  src: url('@/public/fonts/semibold/lato-semibold.eot');
+  src: url('@/public/fonts/semibold/lato-semibold.otf') format('opentype'),
+       url('@/public/fonts/semibold/lato-semibold.svg') format('svg'),
+       url('@/public/fonts/semibold/lato-semibold.ttf') format('truetype'),
+       url('@/public/fonts/semibold/lato-semibold.woff') format('woff'),
+       url('@/public/fonts/semibold/lato-semibold.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+}

@@ -1,11 +1,15 @@
 <script setup>
 useHead({
-  title: "God's Sale",
+  title: "God's Sale"
+})
+
+definePageMeta({
+  layout: 'cart'
 })
 </script>
 
 <template>
   <div>
-    <h1>Sup boooooiiiiy</h1>
+    <CartMain />
   </div>
 </template>
