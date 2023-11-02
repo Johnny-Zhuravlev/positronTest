@@ -103,6 +103,7 @@ onMounted(() => {store.dispatch('getAllProducts')})
   width: 100%;
 
   &_left {
+    width: 100%;
     max-width: 800px;
   }
   &_right {

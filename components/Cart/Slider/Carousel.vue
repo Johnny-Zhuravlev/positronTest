@@ -133,7 +133,7 @@ import { useProductsStore } from '~/store/products';
   border-radius: 100%;
   cursor: pointer;
   position: absolute;
-  top: 23px;
+  top: 0;
   z-index: 3;
 }
 
@@ -169,7 +169,7 @@ import { useProductsStore } from '~/store/products';
   color: $dark-gray;
   line-height: 30px;
   position: absolute;
-  top: 28px;
+  top: 8px;
   left: unset;
   right: 68px;
   z-index: 3;

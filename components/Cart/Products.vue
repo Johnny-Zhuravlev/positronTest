@@ -99,7 +99,6 @@ const deleteProduct = (i) => {
     max-width: 263px;
     display: flex;
     flex-direction: column;
-    margin-right: auto;
   }
 
   &__label {
@@ -120,7 +119,7 @@ const deleteProduct = (i) => {
   &__controls {
     display: flex;
     @include font-14-regular;
-    margin-right: 54px;
+    margin: 0 auto;
     position: relative;
   }
 
